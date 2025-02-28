@@ -1,4 +1,4 @@
-package ejercicio6;
+package hoja1.ejercicio6;
 
 import java.io.IOException;
 import java.net.ServerSocket;

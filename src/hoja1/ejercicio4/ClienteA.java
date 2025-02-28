@@ -1,4 +1,4 @@
-package ejercicio4;
+package hoja1.ejercicio4;
 
 import java.io.*;
 import java.net.Socket;

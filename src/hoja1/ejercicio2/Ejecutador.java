@@ -1,4 +1,4 @@
-package ejercicio2;
+package hoja1.ejercicio2;
 
 public class Ejecutador {
 

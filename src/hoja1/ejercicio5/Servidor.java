@@ -1,4 +1,4 @@
-package ejercicio5;
+package hoja1.ejercicio5;
 
 import java.net.ServerSocket;
 import java.net.Socket;

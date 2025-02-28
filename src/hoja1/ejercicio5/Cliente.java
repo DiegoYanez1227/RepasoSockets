@@ -1,4 +1,4 @@
-package ejercicio5;
+package hoja1.ejercicio5;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
